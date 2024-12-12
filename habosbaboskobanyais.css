@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(kepek/red-gift-boxes-hanging-snowy-tree-branches-winter-sunset-numerous-red-gift-boxes-bows-hanging-snow-covered-337682340.png);
+  background-size: cover;
+  border: 10px dashed red;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+  color: darkred;
+  text-decoration-color: darkgreen;
+  margin-bottom: 100px;
+}
+
+h2 {
+  text-decoration: underline;
+  font-size: 35px;
+  color: darkred;
+  text-decoration-color: darkgreen;
+}
+
+img {
+  text-align: center;
+  border: 5px dashed green;
+  margin-left: 400px;
+  width: 1000px;
+}
+
+dt {
+    color: red;
+    font-size: 25px;
+}
+
+dd {
+    color: rgb(21, 255, 0);
+    font-size: 25px;
+}
+
+li {
+    color: rgb(0, 255, 213);
+    font-size: 25px;
+}
+
+p {
+    color: rgb(0, 255, 213);
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    margin-bottom: 50px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    background: white;
+}
+
+a:hover {
+    color:rgb(0, 255, 13);
+    background: rgb(255, 255, 255);
+}
+
+.link {
+    color: blue;
+}
+
+#GPT {
+    text-decoration: overline;
+    text-decoration-color: red;
+}
+
+#Wiki {
+    text-decoration: underline;
+    text-decoration-color: green;
+}
+
+#forras {
+    text-decoration: underline;
+    font-size: 35px;
+    color: darkred;
+    text-decoration-color: darkgreen;
+}
